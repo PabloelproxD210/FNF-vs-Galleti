@@ -23,11 +23,10 @@ If you're looking for documentation, changelogs, or guides, you can find those o
 
 # Previews ([skip](#features))
 
-![Tutorial (Hard) on Downscroll](https://user-images.githubusercontent.com/15311104/113989685-fa5aea80-9850-11eb-9180-f5819a774c79.gif) ![Milf (Hard) on Downscroll](https://user-images.githubusercontent.com/15311104/113990845-2c208100-9852-11eb-8e6d-f1c9e8439871.gif)
 
 ![Galleti](https://images.gamebanana.com/img/ss/mods/6143fea08ec00.jpgg)
 
-![Cookies](![image](https://user-images.githubusercontent.com/50784440/137041689-42d1f519-3a25-4e61-8850-e7318034c7f9.png))
+![Cookies](https://user-images.githubusercontent.com/50784440/137041689-42d1f519-3a25-4e61-8850-e7318034c7f9.png)
 
 ![Virus](https://images.gamebanana.com/img/ss/mods/6143feb07653f.jpg)
 
