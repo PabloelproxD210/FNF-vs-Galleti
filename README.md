@@ -24,7 +24,7 @@ If you're looking for documentation, changelogs, or guides, you can find those o
 # Previews ([skip](#features))
 
 
-![Galleti](https://images.gamebanana.com/img/ss/mods/6143fea08ec00.jpgg)
+![Galleti](https://images.gamebanana.com/img/ss/mods/6143fea08ec00.jpg)
 
 ![Cookies](https://user-images.githubusercontent.com/50784440/137041689-42d1f519-3a25-4e61-8850-e7318034c7f9.png)
 
