@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kkkkkkk.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="animstage20000" x="15" y="15" width="368" height="3651" frameX="-57" frameY="-3" frameWidth="472" frameHeight="3665"/>
+	<SubTexture name="animstage20001" x="423" y="15" width="425" height="3662" frameX="0" frameY="-3" frameWidth="472" frameHeight="3665"/>
+	<SubTexture name="animstage20002" x="888" y="15" width="415" height="3654" frameX="-57" frameY="0" frameWidth="472" frameHeight="3665"/>
+</TextureAtlas>
